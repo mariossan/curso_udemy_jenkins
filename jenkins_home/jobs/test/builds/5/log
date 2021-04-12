@@ -1,0 +1,8 @@
+Started by user [8mha:////4F1eYEw6ysczyeFxppPKxeo//HRGfXaF4JV8na+ci7aRAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL93MSizPzi4sQ8AGJxjPLEAAAA[0mMario Sanchez
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins4197372027471749136.sh
++ /opt/script.sh Mario
+/tmp/jenkins4197372027471749136.sh: 2: /tmp/jenkins4197372027471749136.sh: /opt/script.sh: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

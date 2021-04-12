@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-01-13 00:18:46.826 UTC</timestamp>
+  <md5sum>2f72b8d5958c4f42fe7e46f7348129e1</md5sum>
+  <fileName>Credential id=DB_PASS name=Password to Database</fileName>
+  <usages>
+    <entry>
+      <string>remote-task</string>
+      <ranges>2-3</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
