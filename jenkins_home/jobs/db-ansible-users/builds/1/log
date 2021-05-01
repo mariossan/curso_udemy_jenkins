@@ -1,0 +1,17 @@
+Started by user [8mha:////4F1eYEw6ysczyeFxppPKxeo//HRGfXaF4JV8na+ci7aRAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL93MSizPzi4sQ8AGJxjPLEAAAA[0mMario Sanchez
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/db-ansible-users
+[8mha:////4O0J0t/vM7ilCKVM9Z74w81HjpcW5rqe+qDrlIGT5tdMAAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGlaQUc1MzgxRz3ZREcxNdE1MDA90kw2QzXYMUQ2Nz02RDSzPTVAC5tWmPrwAAAA==[0m[db-ansible-users] $ ansible-playbook /var/jenkins_home/ansible/people.yml -i /var/jenkins_home/ansible/hosts -f 5 -e EDAD=22
+
+PLAY [web1] ********************************************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [web1]
+
+TASK [TRasnfiere el template hace el web 1] ************************************
+changed: [web1]
+
+PLAY RECAP *********************************************************************
+web1                       : ok=2    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+Finished: SUCCESS
